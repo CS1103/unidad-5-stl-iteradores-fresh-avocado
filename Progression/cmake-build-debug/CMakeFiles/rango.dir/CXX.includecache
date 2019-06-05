@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabrielspranger/Desktop/POO II/Progression/ArithProgression.h
+ArithProgressionIterator.h
+/Users/gabrielspranger/Desktop/POO II/Progression/ArithProgressionIterator.h
+
+/Users/gabrielspranger/Desktop/POO II/Progression/ArithProgressionIterator.h
+
+/Users/gabrielspranger/Desktop/POO II/Progression/FibonaProgression.h
+FibonaProgressionIterator.h
+/Users/gabrielspranger/Desktop/POO II/Progression/FibonaProgressionIterator.h
+
+/Users/gabrielspranger/Desktop/POO II/Progression/FibonaProgressionIterator.h
+
+/Users/gabrielspranger/Desktop/POO II/Progression/GeoProgression.h
+GeoProgressionIterator.h
+/Users/gabrielspranger/Desktop/POO II/Progression/GeoProgressionIterator.h
+
+/Users/gabrielspranger/Desktop/POO II/Progression/GeoProgressionIterator.h
+
+/Users/gabrielspranger/Desktop/POO II/Progression/main.cpp
+iostream
+-
+ArithProgression.h
+/Users/gabrielspranger/Desktop/POO II/Progression/ArithProgression.h
+ArithProgressionIterator.h
+/Users/gabrielspranger/Desktop/POO II/Progression/ArithProgressionIterator.h
+GeoProgression.h
+/Users/gabrielspranger/Desktop/POO II/Progression/GeoProgression.h
+GeoProgressionIterator.h
+/Users/gabrielspranger/Desktop/POO II/Progression/GeoProgressionIterator.h
+FibonaProgression.h
+/Users/gabrielspranger/Desktop/POO II/Progression/FibonaProgression.h
+
